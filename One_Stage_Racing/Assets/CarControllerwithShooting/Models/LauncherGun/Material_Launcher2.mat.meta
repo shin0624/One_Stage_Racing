@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c91dbb3e880c7460cb03d011c34c9813
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 246095
+  packageName: Car Controller with Shooting Capabilities for Both Mobile and PC
+  packageVersion: 2.0
+  assetPath: Assets/CarControllerwithShooting/Models/LauncherGun/Material_Launcher2.mat
+  uploadId: 732804

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: d95ffa0b762384fc0972fdd793adf4cb
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 246095
+  packageName: Car Controller with Shooting Capabilities for Both Mobile and PC
+  packageVersion: 2.0
+  assetPath: Assets/CarControllerwithShooting/Prefabs/Environment/Stone.prefab
+  uploadId: 732804

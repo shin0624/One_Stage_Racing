@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 0639f35a1b3024eaebb1b3b463248db2
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 246095
+  packageName: Car Controller with Shooting Capabilities for Both Mobile and PC
+  packageVersion: 2.0
+  assetPath: Assets/CarControllerwithShooting/Animations/HeliStartAnimation.anim
+  uploadId: 732804

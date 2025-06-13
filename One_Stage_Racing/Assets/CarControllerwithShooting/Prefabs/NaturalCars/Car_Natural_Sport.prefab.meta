@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 331750675262947108b52ed2d9f796c1
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 246095
+  packageName: Car Controller with Shooting Capabilities for Both Mobile and PC
+  packageVersion: 2.0
+  assetPath: Assets/CarControllerwithShooting/Prefabs/NaturalCars/Car_Natural_Sport.prefab
+  uploadId: 732804

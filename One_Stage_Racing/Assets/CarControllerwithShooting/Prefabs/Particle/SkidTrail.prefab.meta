@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 2d07898aebf4e40348871fa729be940a
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 246095
+  packageName: Car Controller with Shooting Capabilities for Both Mobile and PC
+  packageVersion: 2.0
+  assetPath: Assets/CarControllerwithShooting/Prefabs/Particle/SkidTrail.prefab
+  uploadId: 732804

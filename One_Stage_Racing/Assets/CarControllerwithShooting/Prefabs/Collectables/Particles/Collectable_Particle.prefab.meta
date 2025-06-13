@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 4e5f22534c68942ffbe8aec7eb337739
+labels:
+- warfx
+- particles
+- explosion
+- desktop
+AssetOrigin:
+  serializedVersion: 1
+  productId: 246095
+  packageName: Car Controller with Shooting Capabilities for Both Mobile and PC
+  packageVersion: 2.0
+  assetPath: Assets/CarControllerwithShooting/Prefabs/Collectables/Particles/Collectable_Particle.prefab
+  uploadId: 732804

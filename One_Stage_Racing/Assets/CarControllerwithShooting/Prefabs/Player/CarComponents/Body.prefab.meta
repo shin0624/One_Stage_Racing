@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 7e4b1e4198b5b4dfc9b5cb3f68d6b557
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 246095
+  packageName: Car Controller with Shooting Capabilities for Both Mobile and PC
+  packageVersion: 2.0
+  assetPath: Assets/CarControllerwithShooting/Prefabs/Player/CarComponents/Body.prefab
+  uploadId: 732804

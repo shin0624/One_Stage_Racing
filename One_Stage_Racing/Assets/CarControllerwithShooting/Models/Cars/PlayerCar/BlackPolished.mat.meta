@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ca2e03a3eb829403b97c943fea0dee1f
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 246095
+  packageName: Car Controller with Shooting Capabilities for Both Mobile and PC
+  packageVersion: 2.0
+  assetPath: Assets/CarControllerwithShooting/Models/Cars/PlayerCar/BlackPolished.mat
+  uploadId: 732804

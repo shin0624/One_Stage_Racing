@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 846030f79fbf342279b20f75206b147d
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 246095
+  packageName: Car Controller with Shooting Capabilities for Both Mobile and PC
+  packageVersion: 2.0
+  assetPath: Assets/CarControllerwithShooting/MaterialsTextures/CFX3_RayStraight
+    ADD.mat
+  uploadId: 732804

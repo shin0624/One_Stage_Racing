@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 878656c468c2b4051a6d8582631f9e31
+labels:
+- warfx
+- particles
+- desktop
+- bullet impact
+AssetOrigin:
+  serializedVersion: 1
+  productId: 246095
+  packageName: Car Controller with Shooting Capabilities for Both Mobile and PC
+  packageVersion: 2.0
+  assetPath: Assets/CarControllerwithShooting/Prefabs/Bullets/Particles/Bullet_Muzzle.prefab
+  uploadId: 732804

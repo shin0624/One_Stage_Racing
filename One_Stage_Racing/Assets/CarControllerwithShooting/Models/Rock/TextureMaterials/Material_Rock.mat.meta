@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7a4594aba015f4d5f9874f98178aa70d
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 246095
+  packageName: Car Controller with Shooting Capabilities for Both Mobile and PC
+  packageVersion: 2.0
+  assetPath: Assets/CarControllerwithShooting/Models/Rock/TextureMaterials/Material_Rock.mat
+  uploadId: 732804

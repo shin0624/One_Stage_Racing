@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 2ed4a03efb2ee4da28397b18044bea49
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 246095
+  packageName: Car Controller with Shooting Capabilities for Both Mobile and PC
+  packageVersion: 2.0
+  assetPath: Assets/CarControllerwithShooting/Prefabs/Bullets/Bullet.prefab
+  uploadId: 732804

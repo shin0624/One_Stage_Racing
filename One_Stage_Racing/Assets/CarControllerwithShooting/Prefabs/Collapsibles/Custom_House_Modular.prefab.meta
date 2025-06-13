@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: bbc4cc93b79d548a5b62aa20b30db57f
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 246095
+  packageName: Car Controller with Shooting Capabilities for Both Mobile and PC
+  packageVersion: 2.0
+  assetPath: Assets/CarControllerwithShooting/Prefabs/Collapsibles/Custom_House_Modular.prefab
+  uploadId: 732804

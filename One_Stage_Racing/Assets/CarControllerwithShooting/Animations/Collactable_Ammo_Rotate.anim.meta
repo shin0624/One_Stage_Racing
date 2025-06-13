@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 85db16b7f440e4406ad77aa1e464c615
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 246095
+  packageName: Car Controller with Shooting Capabilities for Both Mobile and PC
+  packageVersion: 2.0
+  assetPath: Assets/CarControllerwithShooting/Animations/Collactable_Ammo_Rotate.anim
+  uploadId: 732804

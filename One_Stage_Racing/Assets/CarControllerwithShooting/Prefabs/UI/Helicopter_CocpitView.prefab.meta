@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: b2601249a129f4614a38d00280bf5945
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 246095
+  packageName: Car Controller with Shooting Capabilities for Both Mobile and PC
+  packageVersion: 2.0
+  assetPath: Assets/CarControllerwithShooting/Prefabs/UI/Helicopter_CocpitView.prefab
+  uploadId: 732804

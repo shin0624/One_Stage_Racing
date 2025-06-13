@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 6f1be4f818851428b9b1f4b998b3e0a3
+labels:
+- smoke
+- warfx
+- particles
+- desktop
+AssetOrigin:
+  serializedVersion: 1
+  productId: 246095
+  packageName: Car Controller with Shooting Capabilities for Both Mobile and PC
+  packageVersion: 2.0
+  assetPath: Assets/CarControllerwithShooting/Prefabs/Player/CarComponents/Particle/Particle_Car_Smoke.prefab
+  uploadId: 732804

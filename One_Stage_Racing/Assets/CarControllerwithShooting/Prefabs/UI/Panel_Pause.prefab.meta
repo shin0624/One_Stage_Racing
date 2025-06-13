@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: c400da56497e04d488b72a4c10fb7bfc
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 246095
+  packageName: Car Controller with Shooting Capabilities for Both Mobile and PC
+  packageVersion: 2.0
+  assetPath: Assets/CarControllerwithShooting/Prefabs/UI/Panel_Pause.prefab
+  uploadId: 732804

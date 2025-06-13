@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 08352e38d53ee4013acfe01cfb06730b
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 246095
+  packageName: Car Controller with Shooting Capabilities for Both Mobile and PC
+  packageVersion: 2.0
+  assetPath: Assets/CarControllerwithShooting/Models/Cars/PlayerCar/Glass_TailLight.mat
+  uploadId: 732804

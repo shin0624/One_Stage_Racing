@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: eb0dc523085884fcebddf80d82eb30ed
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 246095
+  packageName: Car Controller with Shooting Capabilities for Both Mobile and PC
+  packageVersion: 2.0
+  assetPath: Assets/CarControllerwithShooting/Prefabs/Player/CarComponents/TPSCamera.prefab
+  uploadId: 732804
