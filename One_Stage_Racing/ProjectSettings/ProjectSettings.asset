@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 27
-  productGUID: 00000000000000000000000000000000
+  productGUID: b5251e30d02286f4ebd22b42180ab8af
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -861,7 +861,7 @@ PlayerSettings:
   cloudProjectId: 08fdcefc-0cbf-4441-a23c-df4771728921
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: 
+  projectName: One_Stage_Racing
   organizationId: shin0624-as-publisher
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
