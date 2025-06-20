@@ -172,11 +172,32 @@ namespace CarControllerwithShooting
 
         public void Move()
         {
+            ReadSerialData arduinoInput = FindObjectOfType<ReadSerialData>();
+            
             if (CarSystemManager.Instance.controllerType == ControllerType.KeyboardMouse)
             {
-                input = new Vector2(Input.GetAxis("Horizontal"), Input.GetAxis("Vertical"));
-                footBrake = Input.GetAxis("Vertical");
-                handBrake = Input.GetKey(KeyCode.Space) ? 1 : 0;
+                if (arduinoInput != null)
+                    {
+                        Debug.Log("Using Arduino Input");
+                        float horizontal = 0f;
+                        float vertical = 0f;
+                            
+                        if (arduinoInput.GetSimulatedKey(KeyCode.A)) horizontal = -1f;
+                        if (arduinoInput.GetSimulatedKey(KeyCode.D)) horizontal = 1f;
+                        if (arduinoInput.GetSimulatedKey(KeyCode.W)) vertical = 1f;
+                        if (arduinoInput.GetSimulatedKey(KeyCode.S)) vertical = -1f;
+                            
+                        input = new Vector2(horizontal, vertical);
+                        footBrake = vertical;
+                        handBrake = arduinoInput.GetSimulatedKey(KeyCode.Space) ? 1 : 0;
+                    }
+                else
+                {
+                        // 기존 키보드 입력
+                    input = new Vector2(Input.GetAxis("Horizontal"), Input.GetAxis("Vertical"));
+                    footBrake = Input.GetAxis("Vertical");
+                    handBrake = Input.GetKey(KeyCode.Space) ? 1 : 0;
+                }
             }
             else
             {
