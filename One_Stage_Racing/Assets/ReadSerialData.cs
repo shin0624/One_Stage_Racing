@@ -30,8 +30,18 @@ public class ReadSerialData : MonoBehaviour
         sp = new SerialPort(portName, baudRate);
         if (!sp.IsOpen)
         {
-            sp.Open();
-            sp.ReadTimeout = 20;
+            try
+            {
+                // 시리얼 포트 열기
+                Debug.Log("Opening serial port: " + portName);
+                sp.Open();
+                sp.ReadTimeout = 20;
+            }
+            catch (System.Exception e)
+            {
+                Debug.LogError("Failed to open serial port: " + e.Message);
+                return;
+            }
         }
         else
         {
