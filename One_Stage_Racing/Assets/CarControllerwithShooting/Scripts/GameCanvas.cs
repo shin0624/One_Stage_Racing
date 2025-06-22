@@ -8,6 +8,7 @@ namespace CarControllerwithShooting
 {
     public class GameCanvas : MonoBehaviour
     {
+        public ArduinoController02 arduinoController;
         public Button button_Missile;
         public Button button_HandBrake;
         public Button button_Machinegun;
@@ -67,7 +68,7 @@ namespace CarControllerwithShooting
 
         public void Update_Text_Speed()
         {
-            text_speed.text = Convert.ToInt32(CarController.Instance.speed).ToString();
+            text_speed.text = Convert.ToInt32(arduinoController.currentSpeedX).ToString();
         }
 
         public void Configure_For_Mobile()

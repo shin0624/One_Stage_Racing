@@ -193,7 +193,7 @@ namespace CarControllerwithShooting
                     }
                 else
                 {
-                        // 기존 키보드 입력
+                    // 기존 키보드 입력
                     input = new Vector2(Input.GetAxis("Horizontal"), Input.GetAxis("Vertical"));
                     footBrake = Input.GetAxis("Vertical");
                     handBrake = Input.GetKey(KeyCode.Space) ? 1 : 0;
