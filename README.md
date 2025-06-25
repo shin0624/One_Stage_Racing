@@ -29,23 +29,17 @@
 
 ## 🏗️ 시스템 아키텍처
 
-```
 ![Image](https://github.com/user-attachments/assets/f0269167-06ed-4e0b-9b54-18b47b3e0c6b)
-```
 
 
 ## 🏗️ 통신 흐름도
 
-```
 ![Image](https://github.com/user-attachments/assets/dd4029ab-262a-4a1f-8f79-e3cad015356d)
-```
 
 
 ## 🏗️ 데이터 명세
 
-```
 ![Image](https://github.com/user-attachments/assets/0fa03fae-0981-4b73-a036-e184f696ab6f)
-```
 
 
 ## 🔧 하드웨어 구성
@@ -64,12 +58,11 @@
 
 ### 회로 연결
 
-```
 ![Image](https://github.com/user-attachments/assets/34c2c7ba-1694-4740-9ed2-d0578d061d5b)
-```
-```
+
+
 ![Image](https://github.com/user-attachments/assets/044a6c46-228f-4947-a350-0e8f8bae9e41)
-```
+
 
 ## 💻 소프트웨어 구성
 
